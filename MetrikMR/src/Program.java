@@ -1,8 +1,13 @@
 
 
 // Version 1.1
+//<<<<<<< HEAD
 
 // Version 1.2
+//=======
+// Version 1.1.1
+
+//>>>>>>> refs/heads/Version_1.1.1
 
 
 
